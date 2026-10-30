@@ -215,3 +215,12 @@ localparam IDLE  = 0; //IDLE
 localparam IDLE  = 0; //   IDLE
 ```
 ---
+
+## 维护与在线文档
+
+本仓库是 [ericsonj/verilog-format](https://github.com/ericsonj/verilog-format) 的 Fork，保留上游来源、目录约定及许可证。
+
+- [在线维护文档](https://xiaoshecode.github.io/xiaoshecode/repos/verilog-format/)
+- [仓库维护说明](MAINTENANCE.md)：用途、环境、目录结构、检查结果和待验证事项。
+
+2026-10-30 的检查范围以维护说明为准；语法检查通过不代表完整构建、模型训练或硬件验证通过。
